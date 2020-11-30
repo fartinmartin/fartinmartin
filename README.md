@@ -1,4 +1,4 @@
-### Hello! I am a digital designer with a focus in front end development, motion, and brand identity.
+### Hello! I am a digital designer with a focus in front end development and motion.
 
 I dabble in `HTML`, `CSS`, `jQuery`, `JavaScript`, `WordPress`, `React.js`, `Gatsby.js`, `Vue.js`, `Nuxt.js`, `Google Firebase`, and `TypeScript`!
 
