@@ -1,6 +1,6 @@
 <table border="0">
   <tr>
-    <td><img src="/ml.gif" /></td>
+    <td><img src="/ml.gif" width="150" height="150"/></td>
     <td>
       <h3>Hello! I am a motion designer that dabbles in...</h3>
       
